@@ -1,0 +1,10 @@
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\bin\Debug\A Power B Desktop for loop.exe.config
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\bin\Debug\A Power B Desktop for loop.exe
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\bin\Debug\A Power B Desktop for loop.pdb
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\obj\Debug\A Power B Desktop for loop.csproj.SuggestedBindingRedirects.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\obj\Debug\A_Power_B_Desktop_for_loop.Form1.resources
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\obj\Debug\A_Power_B_Desktop_for_loop.Properties.Resources.resources
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\obj\Debug\A Power B Desktop for loop.csproj.GenerateResource.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\obj\Debug\A Power B Desktop for loop.csproj.CoreCompileInputs.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\obj\Debug\A Power B Desktop for loop.exe
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\A Power B Desktop for loop\A Power B Desktop for loop\obj\Debug\A Power B Desktop for loop.pdb

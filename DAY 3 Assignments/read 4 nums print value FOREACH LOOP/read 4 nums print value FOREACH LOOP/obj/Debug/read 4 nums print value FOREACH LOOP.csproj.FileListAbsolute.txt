@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 3 Assignments\read 4 nums print value FOREACH LOOP\read 4 nums print value FOREACH LOOP\bin\Debug\read 4 nums print value FOREACH LOOP.exe.config
+E:\NBHT-NEW\C#\DAY 3 Assignments\read 4 nums print value FOREACH LOOP\read 4 nums print value FOREACH LOOP\bin\Debug\read 4 nums print value FOREACH LOOP.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\read 4 nums print value FOREACH LOOP\read 4 nums print value FOREACH LOOP\bin\Debug\read 4 nums print value FOREACH LOOP.pdb
+E:\NBHT-NEW\C#\DAY 3 Assignments\read 4 nums print value FOREACH LOOP\read 4 nums print value FOREACH LOOP\obj\Debug\read 4 nums print value FOREACH LOOP.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\read 4 nums print value FOREACH LOOP\read 4 nums print value FOREACH LOOP\obj\Debug\read 4 nums print value FOREACH LOOP.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\read 4 nums print value FOREACH LOOP\read 4 nums print value FOREACH LOOP\obj\Debug\read 4 nums print value FOREACH LOOP.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\read 4 nums print value FOREACH LOOP\read 4 nums print value FOREACH LOOP\obj\Debug\read 4 nums print value FOREACH LOOP.pdb

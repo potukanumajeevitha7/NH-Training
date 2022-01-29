@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 3 Assignments\Init arry with 5 nums sum FOREACH LOP\Init arry with 5 nums sum FOREACH LOP\bin\Debug\Init arry with 5 nums sum FOREACH LOP.exe.config
+E:\NBHT-NEW\C#\DAY 3 Assignments\Init arry with 5 nums sum FOREACH LOP\Init arry with 5 nums sum FOREACH LOP\bin\Debug\Init arry with 5 nums sum FOREACH LOP.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\Init arry with 5 nums sum FOREACH LOP\Init arry with 5 nums sum FOREACH LOP\bin\Debug\Init arry with 5 nums sum FOREACH LOP.pdb
+E:\NBHT-NEW\C#\DAY 3 Assignments\Init arry with 5 nums sum FOREACH LOP\Init arry with 5 nums sum FOREACH LOP\obj\Debug\Init arry with 5 nums sum FOREACH LOP.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\Init arry with 5 nums sum FOREACH LOP\Init arry with 5 nums sum FOREACH LOP\obj\Debug\Init arry with 5 nums sum FOREACH LOP.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\Init arry with 5 nums sum FOREACH LOP\Init arry with 5 nums sum FOREACH LOP\obj\Debug\Init arry with 5 nums sum FOREACH LOP.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\Init arry with 5 nums sum FOREACH LOP\Init arry with 5 nums sum FOREACH LOP\obj\Debug\Init arry with 5 nums sum FOREACH LOP.pdb

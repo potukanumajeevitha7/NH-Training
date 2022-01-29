@@ -1,0 +1,11 @@
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add 2 nums desktop.csproj.AssemblyReference.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add 2 nums desktop.csproj.SuggestedBindingRedirects.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add_2_nums_desktop.Form1.resources
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add_2_nums_desktop.Properties.Resources.resources
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add 2 nums desktop.csproj.GenerateResource.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add 2 nums desktop.csproj.CoreCompileInputs.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\bin\Debug\add 2 nums desktop.exe.config
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\bin\Debug\add 2 nums desktop.exe
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\bin\Debug\add 2 nums desktop.pdb
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add 2 nums desktop.exe
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums desktop\add 2 nums desktop\obj\Debug\add 2 nums desktop.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c263015-3267-416d-83f7-e770a59cce84": {
+      "ProjectGuid": "3c263015-3267-416d-83f7-e770a59cce84",
+      "DisplayName": "add 2 nums console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

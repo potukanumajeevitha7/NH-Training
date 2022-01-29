@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print hlo 5 times", "print hlo 5 times\print hlo 5 times.csproj", "{27C73D25-ED7A-4752-B5AE-4CBC0DD2373C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C73D25-ED7A-4752-B5AE-4CBC0DD2373C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C73D25-ED7A-4752-B5AE-4CBC0DD2373C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C73D25-ED7A-4752-B5AE-4CBC0DD2373C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C73D25-ED7A-4752-B5AE-4CBC0DD2373C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DB8FEA-D689-443A-8B7E-5C01802AD561}
+	EndGlobalSection
+EndGlobal

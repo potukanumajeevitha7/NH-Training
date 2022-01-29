@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 2 Assignments\factors of a num\factors of a num\bin\Debug\factors of a num.exe.config
+E:\NBHT-NEW\C#\DAY 2 Assignments\factors of a num\factors of a num\bin\Debug\factors of a num.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\factors of a num\factors of a num\bin\Debug\factors of a num.pdb
+E:\NBHT-NEW\C#\DAY 2 Assignments\factors of a num\factors of a num\obj\Debug\factors of a num.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\factors of a num\factors of a num\obj\Debug\factors of a num.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\factors of a num\factors of a num\obj\Debug\factors of a num.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\factors of a num\factors of a num\obj\Debug\factors of a num.pdb

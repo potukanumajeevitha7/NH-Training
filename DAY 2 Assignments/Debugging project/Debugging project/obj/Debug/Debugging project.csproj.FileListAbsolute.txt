@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 2 Assignments\Debugging project\Debugging project\bin\Debug\Debugging project.exe.config
+E:\NBHT-NEW\C#\DAY 2 Assignments\Debugging project\Debugging project\bin\Debug\Debugging project.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\Debugging project\Debugging project\bin\Debug\Debugging project.pdb
+E:\NBHT-NEW\C#\DAY 2 Assignments\Debugging project\Debugging project\obj\Debug\Debugging project.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\Debugging project\Debugging project\obj\Debug\Debugging project.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\Debugging project\Debugging project\obj\Debug\Debugging project.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\Debugging project\Debugging project\obj\Debug\Debugging project.pdb

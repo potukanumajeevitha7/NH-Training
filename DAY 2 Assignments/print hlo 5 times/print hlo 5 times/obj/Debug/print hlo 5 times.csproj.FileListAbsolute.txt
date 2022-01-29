@@ -1,0 +1,8 @@
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\bin\Debug\print hlo 5 times.exe.config
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\bin\Debug\print hlo 5 times.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\bin\Debug\print hlo 5 times.pdb
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\obj\Debug\print hlo 5 times.csproj.AssemblyReference.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\obj\Debug\print hlo 5 times.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\obj\Debug\print hlo 5 times.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\obj\Debug\print hlo 5 times.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times\print hlo 5 times\obj\Debug\print hlo 5 times.pdb

@@ -1,0 +1,8 @@
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\bin\Debug\quiz project.exe.config
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\bin\Debug\quiz project.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\bin\Debug\quiz project.pdb
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\obj\Debug\quiz project.csproj.AssemblyReference.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\obj\Debug\quiz project.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\obj\Debug\quiz project.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\obj\Debug\quiz project.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\quiz project\quiz project\obj\Debug\quiz project.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4ec5188-5a19-46f0-847f-1cfdf6c96986": {
+      "ProjectGuid": "b4ec5188-5a19-46f0-847f-1cfdf6c96986",
+      "DisplayName": "Init arry with 5 nums sum FOREACH LOP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

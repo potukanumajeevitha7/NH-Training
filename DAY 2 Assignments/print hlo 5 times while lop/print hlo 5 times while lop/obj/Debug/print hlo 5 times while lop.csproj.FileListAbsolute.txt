@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times while lop\print hlo 5 times while lop\bin\Debug\print hlo 5 times while lop.exe.config
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times while lop\print hlo 5 times while lop\bin\Debug\print hlo 5 times while lop.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times while lop\print hlo 5 times while lop\bin\Debug\print hlo 5 times while lop.pdb
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times while lop\print hlo 5 times while lop\obj\Debug\print hlo 5 times while lop.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times while lop\print hlo 5 times while lop\obj\Debug\print hlo 5 times while lop.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times while lop\print hlo 5 times while lop\obj\Debug\print hlo 5 times while lop.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\print hlo 5 times while lop\print hlo 5 times while lop\obj\Debug\print hlo 5 times while lop.pdb

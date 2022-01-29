@@ -1,0 +1,8 @@
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\bin\Debug\add 2 nums console.exe.config
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\bin\Debug\add 2 nums console.exe
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\bin\Debug\add 2 nums console.pdb
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\obj\Debug\add 2 nums console.csproj.AssemblyReference.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\obj\Debug\add 2 nums console.csproj.SuggestedBindingRedirects.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\obj\Debug\add 2 nums console.csproj.CoreCompileInputs.cache
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\obj\Debug\add 2 nums console.exe
+E:\NBHT\.NET PROJECTS\Day 1 Assignments\add 2 nums console\add 2 nums console\obj\Debug\add 2 nums console.pdb

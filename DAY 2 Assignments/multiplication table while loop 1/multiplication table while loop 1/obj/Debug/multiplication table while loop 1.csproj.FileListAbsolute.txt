@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 2 Assignments\multiplication table while loop 1\multiplication table while loop 1\bin\Debug\multiplication table while loop 1.exe.config
+E:\NBHT-NEW\C#\DAY 2 Assignments\multiplication table while loop 1\multiplication table while loop 1\bin\Debug\multiplication table while loop 1.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\multiplication table while loop 1\multiplication table while loop 1\bin\Debug\multiplication table while loop 1.pdb
+E:\NBHT-NEW\C#\DAY 2 Assignments\multiplication table while loop 1\multiplication table while loop 1\obj\Debug\multiplication table while loop 1.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\multiplication table while loop 1\multiplication table while loop 1\obj\Debug\multiplication table while loop 1.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\multiplication table while loop 1\multiplication table while loop 1\obj\Debug\multiplication table while loop 1.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\multiplication table while loop 1\multiplication table while loop 1\obj\Debug\multiplication table while loop 1.pdb

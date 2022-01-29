@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 2 Assignments\print nums 1 to 10\print nums 1 to 10\bin\Debug\print nums 1 to 10.exe.config
+E:\NBHT-NEW\C#\DAY 2 Assignments\print nums 1 to 10\print nums 1 to 10\bin\Debug\print nums 1 to 10.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\print nums 1 to 10\print nums 1 to 10\bin\Debug\print nums 1 to 10.pdb
+E:\NBHT-NEW\C#\DAY 2 Assignments\print nums 1 to 10\print nums 1 to 10\obj\Debug\print nums 1 to 10.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\print nums 1 to 10\print nums 1 to 10\obj\Debug\print nums 1 to 10.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\print nums 1 to 10\print nums 1 to 10\obj\Debug\print nums 1 to 10.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\print nums 1 to 10\print nums 1 to 10\obj\Debug\print nums 1 to 10.pdb

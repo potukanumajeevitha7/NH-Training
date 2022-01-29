@@ -1,0 +1,8 @@
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\bin\Debug\factorial of a num.exe.config
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\bin\Debug\factorial of a num.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\bin\Debug\factorial of a num.pdb
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\obj\Debug\factorial of a num.csproj.AssemblyReference.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\obj\Debug\factorial of a num.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\obj\Debug\factorial of a num.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\obj\Debug\factorial of a num.exe
+E:\NBHT-NEW\C#\DAY 2 Assignments\factorial of a num\factorial of a num\obj\Debug\factorial of a num.pdb

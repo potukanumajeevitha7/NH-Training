@@ -1,0 +1,7 @@
+E:\NBHT-NEW\C#\DAY 3 Assignments\vowel or not SWITCH CASE\vowel or not SWITCH CASE\bin\Debug\vowel or not SWITCH CASE.exe.config
+E:\NBHT-NEW\C#\DAY 3 Assignments\vowel or not SWITCH CASE\vowel or not SWITCH CASE\bin\Debug\vowel or not SWITCH CASE.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\vowel or not SWITCH CASE\vowel or not SWITCH CASE\bin\Debug\vowel or not SWITCH CASE.pdb
+E:\NBHT-NEW\C#\DAY 3 Assignments\vowel or not SWITCH CASE\vowel or not SWITCH CASE\obj\Debug\vowel or not SWITCH CASE.csproj.SuggestedBindingRedirects.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\vowel or not SWITCH CASE\vowel or not SWITCH CASE\obj\Debug\vowel or not SWITCH CASE.csproj.CoreCompileInputs.cache
+E:\NBHT-NEW\C#\DAY 3 Assignments\vowel or not SWITCH CASE\vowel or not SWITCH CASE\obj\Debug\vowel or not SWITCH CASE.exe
+E:\NBHT-NEW\C#\DAY 3 Assignments\vowel or not SWITCH CASE\vowel or not SWITCH CASE\obj\Debug\vowel or not SWITCH CASE.pdb

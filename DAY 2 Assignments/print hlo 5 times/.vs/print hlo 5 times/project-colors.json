@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27c73d25-ed7a-4752-b5ae-4cbc0dd2373c": {
+      "ProjectGuid": "27c73d25-ed7a-4752-b5ae-4cbc0dd2373c",
+      "DisplayName": "print hlo 5 times",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
