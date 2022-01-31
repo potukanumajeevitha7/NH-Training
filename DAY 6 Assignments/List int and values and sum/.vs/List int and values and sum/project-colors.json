@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcdc1040-5793-49e8-a3cf-980ba6d262db": {
+      "ProjectGuid": "fcdc1040-5793-49e8-a3cf-980ba6d262db",
+      "DisplayName": "List int and values and sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List int and values and sum", "List int and values and sum\List int and values and sum.csproj", "{FCDC1040-5793-49E8-A3CF-980BA6D262DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDC1040-5793-49E8-A3CF-980BA6D262DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDC1040-5793-49E8-A3CF-980BA6D262DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDC1040-5793-49E8-A3CF-980BA6D262DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDC1040-5793-49E8-A3CF-980BA6D262DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F11793DA-E21B-42F1-BCC1-F4424A992F33}
+	EndGlobalSection
+EndGlobal

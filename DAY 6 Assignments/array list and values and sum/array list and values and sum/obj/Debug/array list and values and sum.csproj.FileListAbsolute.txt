@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\bin\Debug\array list and values and sum.exe.config
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\bin\Debug\array list and values and sum.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\bin\Debug\array list and values and sum.pdb
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\obj\Debug\array list and values and sum.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\obj\Debug\array list and values and sum.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\obj\Debug\array list and values and sum.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\obj\Debug\array list and values and sum.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\array list and values and sum\array list and values and sum\obj\Debug\array list and values and sum.pdb

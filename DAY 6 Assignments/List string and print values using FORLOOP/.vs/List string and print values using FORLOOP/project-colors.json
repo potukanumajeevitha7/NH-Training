@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8ee594c-01d3-4265-8259-6420daa32a71": {
+      "ProjectGuid": "a8ee594c-01d3-4265-8259-6420daa32a71",
+      "DisplayName": "List string and print values using FORLOOP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

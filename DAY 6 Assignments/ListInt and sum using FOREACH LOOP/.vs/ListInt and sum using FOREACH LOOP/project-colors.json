@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7eb22396-8de3-47d1-8b97-3a82f6abe441": {
+      "ProjectGuid": "7eb22396-8de3-47d1-8b97-3a82f6abe441",
+      "DisplayName": "ListInt and sum using FOREACH LOOP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

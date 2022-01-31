@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43517a3a-8f8e-4e63-a9ff-93af08331785": {
+      "ProjectGuid": "43517a3a-8f8e-4e63-a9ff-93af08331785",
+      "DisplayName": "ListInt and sum using FORLOOP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

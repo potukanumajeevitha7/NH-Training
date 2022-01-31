@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using FOREACHLOOP\List string and print values using FOREACHLOOP\bin\Debug\List string and print values using FOREACHLOOP.exe.config
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using FOREACHLOOP\List string and print values using FOREACHLOOP\bin\Debug\List string and print values using FOREACHLOOP.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using FOREACHLOOP\List string and print values using FOREACHLOOP\bin\Debug\List string and print values using FOREACHLOOP.pdb
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using FOREACHLOOP\List string and print values using FOREACHLOOP\obj\Debug\List string and print values using FOREACHLOOP.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using FOREACHLOOP\List string and print values using FOREACHLOOP\obj\Debug\List string and print values using FOREACHLOOP.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using FOREACHLOOP\List string and print values using FOREACHLOOP\obj\Debug\List string and print values using FOREACHLOOP.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using FOREACHLOOP\List string and print values using FOREACHLOOP\obj\Debug\List string and print values using FOREACHLOOP.pdb

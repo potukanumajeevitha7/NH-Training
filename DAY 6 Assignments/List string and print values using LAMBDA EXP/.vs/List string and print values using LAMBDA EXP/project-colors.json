@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6de38bd8-1b31-4fde-aec7-693f87c5d789": {
+      "ProjectGuid": "6de38bd8-1b31-4fde-aec7-693f87c5d789",
+      "DisplayName": "List string and print values using LAMBDA EXP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

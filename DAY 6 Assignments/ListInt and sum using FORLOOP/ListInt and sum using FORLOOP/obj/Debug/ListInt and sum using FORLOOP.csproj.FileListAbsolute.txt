@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 6 Assignments\ListInt and sum using FORLOOP\ListInt and sum using FORLOOP\bin\Debug\ListInt and sum using FORLOOP.exe.config
+E:\NBHTraining\C# Training\DAY 6 Assignments\ListInt and sum using FORLOOP\ListInt and sum using FORLOOP\bin\Debug\ListInt and sum using FORLOOP.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\ListInt and sum using FORLOOP\ListInt and sum using FORLOOP\bin\Debug\ListInt and sum using FORLOOP.pdb
+E:\NBHTraining\C# Training\DAY 6 Assignments\ListInt and sum using FORLOOP\ListInt and sum using FORLOOP\obj\Debug\ListInt and sum using FORLOOP.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\ListInt and sum using FORLOOP\ListInt and sum using FORLOOP\obj\Debug\ListInt and sum using FORLOOP.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\ListInt and sum using FORLOOP\ListInt and sum using FORLOOP\obj\Debug\ListInt and sum using FORLOOP.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\ListInt and sum using FORLOOP\ListInt and sum using FORLOOP\obj\Debug\ListInt and sum using FORLOOP.pdb

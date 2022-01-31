@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using LAMBDA EXP\List string and print values using LAMBDA EXP\bin\Debug\List string and print values using LAMBDA EXP.exe.config
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using LAMBDA EXP\List string and print values using LAMBDA EXP\bin\Debug\List string and print values using LAMBDA EXP.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using LAMBDA EXP\List string and print values using LAMBDA EXP\bin\Debug\List string and print values using LAMBDA EXP.pdb
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using LAMBDA EXP\List string and print values using LAMBDA EXP\obj\Debug\List string and print values using LAMBDA EXP.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using LAMBDA EXP\List string and print values using LAMBDA EXP\obj\Debug\List string and print values using LAMBDA EXP.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using LAMBDA EXP\List string and print values using LAMBDA EXP\obj\Debug\List string and print values using LAMBDA EXP.exe
+E:\NBHTraining\C# Training\DAY 6 Assignments\List string and print values using LAMBDA EXP\List string and print values using LAMBDA EXP\obj\Debug\List string and print values using LAMBDA EXP.pdb
