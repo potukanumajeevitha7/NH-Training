@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40f18464-978f-4a30-8d89-dc0aefbd9e90": {
+      "ProjectGuid": "40f18464-978f-4a30-8d89-dc0aefbd9e90",
+      "DisplayName": "salary above 5000 using 3 loops",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

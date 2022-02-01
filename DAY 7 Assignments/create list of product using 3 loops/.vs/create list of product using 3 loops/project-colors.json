@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f98bf3eb-ebda-41e4-bdcd-de7344a3300b": {
+      "ProjectGuid": "f98bf3eb-ebda-41e4-bdcd-de7344a3300b",
+      "DisplayName": "create list of product using 3 loops",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

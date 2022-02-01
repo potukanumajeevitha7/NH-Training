@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90d2d724-108c-46e2-9726-a073aac1072c": {
+      "ProjectGuid": "90d2d724-108c-46e2-9726-a073aac1072c",
+      "DisplayName": "create array obj and init with 5 emp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

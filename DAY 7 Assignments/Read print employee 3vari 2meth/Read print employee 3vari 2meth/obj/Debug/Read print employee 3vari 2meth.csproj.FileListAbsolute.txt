@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\bin\Debug\Read print employee 3vari 2meth.exe.config
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\bin\Debug\Read print employee 3vari 2meth.exe
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\bin\Debug\Read print employee 3vari 2meth.pdb
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\obj\Debug\Read print employee 3vari 2meth.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\obj\Debug\Read print employee 3vari 2meth.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\obj\Debug\Read print employee 3vari 2meth.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\obj\Debug\Read print employee 3vari 2meth.exe
+E:\NBHTraining\C# Training\DAY 7 Assignments\Read print employee 3vari 2meth\Read print employee 3vari 2meth\obj\Debug\Read print employee 3vari 2meth.pdb
