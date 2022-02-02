@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ac521e4-9714-4aa7-b94a-a70f5fd080a6": {
+      "ProjectGuid": "1ac521e4-9714-4aa7-b94a-a70f5fd080a6",
+      "DisplayName": "own program using 4 loops",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

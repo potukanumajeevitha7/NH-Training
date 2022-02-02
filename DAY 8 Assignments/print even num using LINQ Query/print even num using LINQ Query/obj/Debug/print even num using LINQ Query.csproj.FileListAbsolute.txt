@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 8 Assignments\print even num using LINQ Query\print even num using LINQ Query\bin\Debug\print even num using LINQ Query.exe.config
+E:\NBHTraining\C# Training\DAY 8 Assignments\print even num using LINQ Query\print even num using LINQ Query\bin\Debug\print even num using LINQ Query.exe
+E:\NBHTraining\C# Training\DAY 8 Assignments\print even num using LINQ Query\print even num using LINQ Query\bin\Debug\print even num using LINQ Query.pdb
+E:\NBHTraining\C# Training\DAY 8 Assignments\print even num using LINQ Query\print even num using LINQ Query\obj\Debug\print even num using LINQ Query.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 8 Assignments\print even num using LINQ Query\print even num using LINQ Query\obj\Debug\print even num using LINQ Query.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 8 Assignments\print even num using LINQ Query\print even num using LINQ Query\obj\Debug\print even num using LINQ Query.exe
+E:\NBHTraining\C# Training\DAY 8 Assignments\print even num using LINQ Query\print even num using LINQ Query\obj\Debug\print even num using LINQ Query.pdb

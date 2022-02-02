@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\bin\Debug\own program using 4 loops.exe.config
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\bin\Debug\own program using 4 loops.exe
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\bin\Debug\own program using 4 loops.pdb
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\obj\Debug\own program using 4 loops.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\obj\Debug\own program using 4 loops.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\obj\Debug\own program using 4 loops.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\obj\Debug\own program using 4 loops.exe
+E:\NBHTraining\C# Training\DAY 8 Assignments\own program using 4 loops\own program using 4 loops\obj\Debug\own program using 4 loops.pdb
