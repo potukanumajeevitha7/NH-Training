@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorial factor prime or not assignment 1", "factorial factor prime or not assignment 1\factorial factor prime or not assignment 1.csproj", "{8513D8E3-3F1A-446D-9052-B88361BEC49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8513D8E3-3F1A-446D-9052-B88361BEC49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8513D8E3-3F1A-446D-9052-B88361BEC49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8513D8E3-3F1A-446D-9052-B88361BEC49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8513D8E3-3F1A-446D-9052-B88361BEC49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED29B143-DF2A-4D69-93E6-EC26348C6472}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbdd0948-06b7-441a-b14d-999ea8342d6b": {
+      "ProjectGuid": "fbdd0948-06b7-441a-b14d-999ea8342d6b",
+      "DisplayName": "sum difference mul division",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

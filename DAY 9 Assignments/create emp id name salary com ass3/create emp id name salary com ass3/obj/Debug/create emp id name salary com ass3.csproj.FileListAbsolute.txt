@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp id name salary com ass3\create emp id name salary com ass3\bin\Debug\create emp id name salary com ass3.exe.config
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp id name salary com ass3\create emp id name salary com ass3\bin\Debug\create emp id name salary com ass3.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp id name salary com ass3\create emp id name salary com ass3\bin\Debug\create emp id name salary com ass3.pdb
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp id name salary com ass3\create emp id name salary com ass3\obj\Debug\create emp id name salary com ass3.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp id name salary com ass3\create emp id name salary com ass3\obj\Debug\create emp id name salary com ass3.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp id name salary com ass3\create emp id name salary com ass3\obj\Debug\create emp id name salary com ass3.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp id name salary com ass3\create emp id name salary com ass3\obj\Debug\create emp id name salary com ass3.pdb

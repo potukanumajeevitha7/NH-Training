@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 9 Assignments\sum difference mul division\sum difference mul division\bin\Debug\sum difference mul division.exe.config
+E:\NBHTraining\C# Training\DAY 9 Assignments\sum difference mul division\sum difference mul division\bin\Debug\sum difference mul division.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\sum difference mul division\sum difference mul division\bin\Debug\sum difference mul division.pdb
+E:\NBHTraining\C# Training\DAY 9 Assignments\sum difference mul division\sum difference mul division\obj\Debug\sum difference mul division.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\sum difference mul division\sum difference mul division\obj\Debug\sum difference mul division.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\sum difference mul division\sum difference mul division\obj\Debug\sum difference mul division.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\sum difference mul division\sum difference mul division\obj\Debug\sum difference mul division.pdb

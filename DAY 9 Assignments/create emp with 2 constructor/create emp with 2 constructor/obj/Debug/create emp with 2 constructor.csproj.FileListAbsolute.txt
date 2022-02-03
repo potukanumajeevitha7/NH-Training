@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\bin\Debug\create emp with 2 constructor.exe.config
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\bin\Debug\create emp with 2 constructor.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\bin\Debug\create emp with 2 constructor.pdb
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\obj\Debug\create emp with 2 constructor.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\obj\Debug\create emp with 2 constructor.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\obj\Debug\create emp with 2 constructor.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\obj\Debug\create emp with 2 constructor.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\create emp with 2 constructor\create emp with 2 constructor\obj\Debug\create emp with 2 constructor.pdb

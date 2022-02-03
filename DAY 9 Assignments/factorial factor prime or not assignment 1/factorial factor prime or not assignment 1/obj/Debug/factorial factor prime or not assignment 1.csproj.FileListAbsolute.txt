@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\bin\Debug\factorial factor prime or not assignment 1.exe.config
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\bin\Debug\factorial factor prime or not assignment 1.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\bin\Debug\factorial factor prime or not assignment 1.pdb
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\obj\Debug\factorial factor prime or not assignment 1.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\obj\Debug\factorial factor prime or not assignment 1.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\obj\Debug\factorial factor prime or not assignment 1.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\obj\Debug\factorial factor prime or not assignment 1.exe
+E:\NBHTraining\C# Training\DAY 9 Assignments\factorial factor prime or not assignment 1\factorial factor prime or not assignment 1\obj\Debug\factorial factor prime or not assignment 1.pdb
