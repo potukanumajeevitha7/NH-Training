@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\bin\Debug\day 10 evening.exe.config
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\bin\Debug\day 10 evening.exe
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\bin\Debug\day 10 evening.pdb
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\obj\Debug\day 10 evening.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\obj\Debug\day 10 evening.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\obj\Debug\day 10 evening.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\obj\Debug\day 10 evening.exe
+E:\NBHTraining\C# Training\DAY 10 Assignments\day 10 evening\day 10 evening\obj\Debug\day 10 evening.pdb
