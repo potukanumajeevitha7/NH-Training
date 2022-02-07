@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbd12443-6f77-407c-9e03-cee1cc132d98": {
+      "ProjectGuid": "dbd12443-6f77-407c-9e03-cee1cc132d98",
+      "DisplayName": "create emp with only properties",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

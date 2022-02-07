@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\bin\Debug\create emp with only properties.exe.config
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\bin\Debug\create emp with only properties.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\bin\Debug\create emp with only properties.pdb
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\obj\Debug\create emp with only properties.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\obj\Debug\create emp with only properties.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\obj\Debug\create emp with only properties.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\obj\Debug\create emp with only properties.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\create emp with only properties\create emp with only properties\obj\Debug\create emp with only properties.pdb

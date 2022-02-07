@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b24fe616-6583-47f3-b039-402dbf3d3fb7": {
+      "ProjectGuid": "b24fe616-6583-47f3-b039-402dbf3d3fb7",
+      "DisplayName": "interfaces circle square rectangle triangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

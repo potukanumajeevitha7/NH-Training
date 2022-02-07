@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\bin\Debug\interfaces circle square rectangle triangle.exe.config
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\bin\Debug\interfaces circle square rectangle triangle.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\bin\Debug\interfaces circle square rectangle triangle.pdb
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\obj\Debug\interfaces circle square rectangle triangle.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\obj\Debug\interfaces circle square rectangle triangle.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\obj\Debug\interfaces circle square rectangle triangle.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\obj\Debug\interfaces circle square rectangle triangle.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\interfaces circle square rectangle triangle\interfaces circle square rectangle triangle\obj\Debug\interfaces circle square rectangle triangle.pdb

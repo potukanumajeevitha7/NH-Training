@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\bin\Debug\set get id name designation salary.exe.config
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\bin\Debug\set get id name designation salary.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\bin\Debug\set get id name designation salary.pdb
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\obj\Debug\set get id name designation salary.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\obj\Debug\set get id name designation salary.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\obj\Debug\set get id name designation salary.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\obj\Debug\set get id name designation salary.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\set get id name designation salary\set get id name designation salary\obj\Debug\set get id name designation salary.pdb

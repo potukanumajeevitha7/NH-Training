@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 11 Assignments\math class\math class\bin\Debug\math class.exe.config
+E:\NBHTraining\C# Training\DAY 11 Assignments\math class\math class\bin\Debug\math class.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\math class\math class\bin\Debug\math class.pdb
+E:\NBHTraining\C# Training\DAY 11 Assignments\math class\math class\obj\Debug\math class.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\math class\math class\obj\Debug\math class.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 11 Assignments\math class\math class\obj\Debug\math class.exe
+E:\NBHTraining\C# Training\DAY 11 Assignments\math class\math class\obj\Debug\math class.pdb
