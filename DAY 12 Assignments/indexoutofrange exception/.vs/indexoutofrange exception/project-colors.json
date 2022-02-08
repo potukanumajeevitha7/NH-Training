@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c4a9e8f-3954-467a-b1eb-4304b4c62fcd": {
+      "ProjectGuid": "3c4a9e8f-3954-467a-b1eb-4304b4c62fcd",
+      "DisplayName": "indexoutofrange exception",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

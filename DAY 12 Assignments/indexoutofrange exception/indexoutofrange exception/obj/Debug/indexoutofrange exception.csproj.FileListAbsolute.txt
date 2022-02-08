@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\bin\Debug\indexoutofrange exception.exe.config
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\bin\Debug\indexoutofrange exception.exe
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\bin\Debug\indexoutofrange exception.pdb
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\obj\Debug\indexoutofrange exception.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\obj\Debug\indexoutofrange exception.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\obj\Debug\indexoutofrange exception.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\obj\Debug\indexoutofrange exception.exe
+E:\NBHTraining\C# Training\DAY 12 Assignments\indexoutofrange exception\indexoutofrange exception\obj\Debug\indexoutofrange exception.pdb

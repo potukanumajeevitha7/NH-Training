@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple division using 3 exception", "simple division using 3 exception\simple division using 3 exception.csproj", "{FA7F3E1B-6D87-4658-8953-DEC3F7622AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7F3E1B-6D87-4658-8953-DEC3F7622AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7F3E1B-6D87-4658-8953-DEC3F7622AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7F3E1B-6D87-4658-8953-DEC3F7622AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7F3E1B-6D87-4658-8953-DEC3F7622AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F8E1D1-2EB9-4547-AF94-39A6D0302255}
+	EndGlobalSection
+EndGlobal

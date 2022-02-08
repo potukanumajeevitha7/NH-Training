@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "630fead4-f0af-484c-aca4-ea8c0d8727f7": {
+      "ProjectGuid": "630fead4-f0af-484c-aca4-ea8c0d8727f7",
+      "DisplayName": "stackoverflow exception",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa7f3e1b-6d87-4658-8953-dec3f7622aef": {
+      "ProjectGuid": "fa7f3e1b-6d87-4658-8953-dec3f7622aef",
+      "DisplayName": "simple division using 3 exception",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

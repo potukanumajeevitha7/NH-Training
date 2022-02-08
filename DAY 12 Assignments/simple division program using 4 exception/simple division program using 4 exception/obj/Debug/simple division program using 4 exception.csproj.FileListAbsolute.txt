@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\bin\Debug\simple division program using 4 exception.exe.config
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\bin\Debug\simple division program using 4 exception.exe
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\bin\Debug\simple division program using 4 exception.pdb
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\obj\Debug\simple division program using 4 exception.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\obj\Debug\simple division program using 4 exception.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\obj\Debug\simple division program using 4 exception.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\obj\Debug\simple division program using 4 exception.exe
+E:\NBHTraining\C# Training\DAY 12 Assignments\simple division program using 4 exception\simple division program using 4 exception\obj\Debug\simple division program using 4 exception.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f48dba0-eca1-43c7-af67-7709ce3a0a45": {
+      "ProjectGuid": "9f48dba0-eca1-43c7-af67-7709ce3a0a45",
+      "DisplayName": "arraytypemismatch exception",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 12 Assignments\nullreference exception\nullreference exception\bin\Debug\nullreference exception.exe.config
+E:\NBHTraining\C# Training\DAY 12 Assignments\nullreference exception\nullreference exception\bin\Debug\nullreference exception.exe
+E:\NBHTraining\C# Training\DAY 12 Assignments\nullreference exception\nullreference exception\bin\Debug\nullreference exception.pdb
+E:\NBHTraining\C# Training\DAY 12 Assignments\nullreference exception\nullreference exception\obj\Debug\nullreference exception.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\nullreference exception\nullreference exception\obj\Debug\nullreference exception.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 12 Assignments\nullreference exception\nullreference exception\obj\Debug\nullreference exception.exe
+E:\NBHTraining\C# Training\DAY 12 Assignments\nullreference exception\nullreference exception\obj\Debug\nullreference exception.pdb

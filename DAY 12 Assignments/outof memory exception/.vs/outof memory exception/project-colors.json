@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61d5e54d-ffea-46be-88ff-49a5ea73dee1": {
+      "ProjectGuid": "61d5e54d-ffea-46be-88ff-49a5ea73dee1",
+      "DisplayName": "outof memory exception",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

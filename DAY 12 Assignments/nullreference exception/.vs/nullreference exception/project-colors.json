@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89f3d4a3-3223-4f8c-b7fd-ca9b1fc9a787": {
+      "ProjectGuid": "89f3d4a3-3223-4f8c-b7fd-ca9b1fc9a787",
+      "DisplayName": "nullreference exception",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
