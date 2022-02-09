@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c812ea37-0ea2-46d8-af1e-15693bb8c3a8": {
+      "ProjectGuid": "c812ea37-0ea2-46d8-af1e-15693bb8c3a8",
+      "DisplayName": "stack using peek",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

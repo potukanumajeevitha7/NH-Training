@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\bin\Debug\2D ARRAY 3 3 and print trace.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\bin\Debug\2D ARRAY 3 3 and print trace.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\bin\Debug\2D ARRAY 3 3 and print trace.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\obj\Debug\2D ARRAY 3 3 and print trace.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\obj\Debug\2D ARRAY 3 3 and print trace.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\obj\Debug\2D ARRAY 3 3 and print trace.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\obj\Debug\2D ARRAY 3 3 and print trace.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D ARRAY 3 3 and print trace\2D ARRAY 3 3 and print trace\obj\Debug\2D ARRAY 3 3 and print trace.csproj.AssemblyReference.cache

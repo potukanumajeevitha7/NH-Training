@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\two 2D array 2 2 product of 2 matrices\two 2D array 2 2 product of 2 matrices\bin\Debug\two 2D array 2 2 product of 2 matrices.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\two 2D array 2 2 product of 2 matrices\two 2D array 2 2 product of 2 matrices\bin\Debug\two 2D array 2 2 product of 2 matrices.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\two 2D array 2 2 product of 2 matrices\two 2D array 2 2 product of 2 matrices\bin\Debug\two 2D array 2 2 product of 2 matrices.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\two 2D array 2 2 product of 2 matrices\two 2D array 2 2 product of 2 matrices\obj\Debug\two 2D array 2 2 product of 2 matrices.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\two 2D array 2 2 product of 2 matrices\two 2D array 2 2 product of 2 matrices\obj\Debug\two 2D array 2 2 product of 2 matrices.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\two 2D array 2 2 product of 2 matrices\two 2D array 2 2 product of 2 matrices\obj\Debug\two 2D array 2 2 product of 2 matrices.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\two 2D array 2 2 product of 2 matrices\two 2D array 2 2 product of 2 matrices\obj\Debug\two 2D array 2 2 product of 2 matrices.pdb

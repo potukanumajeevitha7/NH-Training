@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\bin\Debug\jagged array print values.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\bin\Debug\jagged array print values.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\bin\Debug\jagged array print values.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\obj\Debug\jagged array print values.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\obj\Debug\jagged array print values.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\obj\Debug\jagged array print values.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\obj\Debug\jagged array print values.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\jagged array print values\jagged array print values\obj\Debug\jagged array print values.pdb

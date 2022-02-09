@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack using peek\stack using peek\bin\Debug\stack using peek.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack using peek\stack using peek\bin\Debug\stack using peek.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack using peek\stack using peek\bin\Debug\stack using peek.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack using peek\stack using peek\obj\Debug\stack using peek.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack using peek\stack using peek\obj\Debug\stack using peek.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack using peek\stack using peek\obj\Debug\stack using peek.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack using peek\stack using peek\obj\Debug\stack using peek.pdb

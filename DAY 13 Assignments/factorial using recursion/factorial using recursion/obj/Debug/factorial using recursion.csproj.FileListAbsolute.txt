@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\bin\Debug\factorial using recursion.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\bin\Debug\factorial using recursion.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\bin\Debug\factorial using recursion.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\obj\Debug\factorial using recursion.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\obj\Debug\factorial using recursion.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\obj\Debug\factorial using recursion.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\obj\Debug\factorial using recursion.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\factorial using recursion\factorial using recursion\obj\Debug\factorial using recursion.pdb

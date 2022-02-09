@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\bin\Debug\2D array 2 2 user values and print.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\bin\Debug\2D array 2 2 user values and print.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\bin\Debug\2D array 2 2 user values and print.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\obj\Debug\2D array 2 2 user values and print.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\obj\Debug\2D array 2 2 user values and print.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\obj\Debug\2D array 2 2 user values and print.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\obj\Debug\2D array 2 2 user values and print.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\2D array 2 2 user values and print\2D array 2 2 user values and print\obj\Debug\2D array 2 2 user values and print.pdb

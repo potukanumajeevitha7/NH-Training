@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\queue using dequeue\queue using dequeue\bin\Debug\queue using dequeue.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\queue using dequeue\queue using dequeue\bin\Debug\queue using dequeue.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\queue using dequeue\queue using dequeue\bin\Debug\queue using dequeue.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\queue using dequeue\queue using dequeue\obj\Debug\queue using dequeue.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\queue using dequeue\queue using dequeue\obj\Debug\queue using dequeue.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\queue using dequeue\queue using dequeue\obj\Debug\queue using dequeue.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\queue using dequeue\queue using dequeue\obj\Debug\queue using dequeue.pdb

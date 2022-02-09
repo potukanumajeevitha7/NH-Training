@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a76770bf-8fa3-4365-b7de-5b4f4e20ec59": {
+      "ProjectGuid": "a76770bf-8fa3-4365-b7de-5b4f4e20ec59",
+      "DisplayName": "jagged array print values",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

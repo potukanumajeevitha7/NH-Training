@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\bin\Debug\2 dimentional array 2 2 using nestedfor loop.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\bin\Debug\2 dimentional array 2 2 using nestedfor loop.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\bin\Debug\2 dimentional array 2 2 using nestedfor loop.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\obj\Debug\2 dimentional array 2 2 using nestedfor loop.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\obj\Debug\2 dimentional array 2 2 using nestedfor loop.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\obj\Debug\2 dimentional array 2 2 using nestedfor loop.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\obj\Debug\2 dimentional array 2 2 using nestedfor loop.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\2 dimentional array 2 2 using nestedfor loop\2 dimentional array 2 2 using nestedfor loop\obj\Debug\2 dimentional array 2 2 using nestedfor loop.pdb

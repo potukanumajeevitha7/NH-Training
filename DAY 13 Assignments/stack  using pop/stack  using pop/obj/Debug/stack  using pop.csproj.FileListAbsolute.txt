@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\bin\Debug\stack  using pop.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\bin\Debug\stack  using pop.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\bin\Debug\stack  using pop.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\obj\Debug\stack  using pop.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\obj\Debug\stack  using pop.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\obj\Debug\stack  using pop.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\obj\Debug\stack  using pop.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\stack  using pop\stack  using pop\obj\Debug\stack  using pop.pdb

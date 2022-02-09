@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 13 Assignments\QUEUE USING PEEK\QUEUE USING PEEK\bin\Debug\QUEUE USING PEEK.exe.config
+E:\NBHTraining\C# Training\DAY 13 Assignments\QUEUE USING PEEK\QUEUE USING PEEK\bin\Debug\QUEUE USING PEEK.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\QUEUE USING PEEK\QUEUE USING PEEK\bin\Debug\QUEUE USING PEEK.pdb
+E:\NBHTraining\C# Training\DAY 13 Assignments\QUEUE USING PEEK\QUEUE USING PEEK\obj\Debug\QUEUE USING PEEK.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\QUEUE USING PEEK\QUEUE USING PEEK\obj\Debug\QUEUE USING PEEK.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 13 Assignments\QUEUE USING PEEK\QUEUE USING PEEK\obj\Debug\QUEUE USING PEEK.exe
+E:\NBHTraining\C# Training\DAY 13 Assignments\QUEUE USING PEEK\QUEUE USING PEEK\obj\Debug\QUEUE USING PEEK.pdb
