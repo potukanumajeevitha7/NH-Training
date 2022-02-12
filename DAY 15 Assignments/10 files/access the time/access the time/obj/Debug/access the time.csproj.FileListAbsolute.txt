@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\access the time\access the time\bin\Debug\access the time.exe.config
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\access the time\access the time\bin\Debug\access the time.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\access the time\access the time\bin\Debug\access the time.pdb
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\access the time\access the time\obj\Debug\access the time.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\access the time\access the time\obj\Debug\access the time.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\access the time\access the time\obj\Debug\access the time.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\access the time\access the time\obj\Debug\access the time.pdb

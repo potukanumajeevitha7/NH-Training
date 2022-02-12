@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 15 Assignments\project 2\project 2\bin\Debug\project 2.exe.config
+E:\NBHTraining\C# Training\DAY 15 Assignments\project 2\project 2\bin\Debug\project 2.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\project 2\project 2\bin\Debug\project 2.pdb
+E:\NBHTraining\C# Training\DAY 15 Assignments\project 2\project 2\obj\Debug\project 2.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\project 2\project 2\obj\Debug\project 2.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\project 2\project 2\obj\Debug\project 2.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\project 2\project 2\obj\Debug\project 2.pdb

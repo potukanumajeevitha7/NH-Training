@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\bin\Debug\get creation time.exe.config
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\bin\Debug\get creation time.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\bin\Debug\get creation time.pdb
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\obj\Debug\get creation time.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\obj\Debug\get creation time.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\obj\Debug\get creation time.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\obj\Debug\get creation time.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\get creation time\get creation time\obj\Debug\get creation time.pdb

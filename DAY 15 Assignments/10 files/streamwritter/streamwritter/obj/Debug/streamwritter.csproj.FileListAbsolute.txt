@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\bin\Debug\streamwritter.exe.config
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\bin\Debug\streamwritter.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\bin\Debug\streamwritter.pdb
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\obj\Debug\streamwritter.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\obj\Debug\streamwritter.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\obj\Debug\streamwritter.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\obj\Debug\streamwritter.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\streamwritter\streamwritter\obj\Debug\streamwritter.pdb

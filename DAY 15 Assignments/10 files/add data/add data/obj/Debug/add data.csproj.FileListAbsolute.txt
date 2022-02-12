@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\bin\Debug\add data.exe.config
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\bin\Debug\add data.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\bin\Debug\add data.pdb
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\obj\Debug\add data.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\obj\Debug\add data.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\obj\Debug\add data.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\obj\Debug\add data.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\add data\add data\obj\Debug\add data.pdb

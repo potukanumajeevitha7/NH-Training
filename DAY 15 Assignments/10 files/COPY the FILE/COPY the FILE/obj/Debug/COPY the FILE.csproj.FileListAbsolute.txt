@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\bin\Debug\COPY the FILE.exe.config
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\bin\Debug\COPY the FILE.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\bin\Debug\COPY the FILE.pdb
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\obj\Debug\COPY the FILE.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\obj\Debug\COPY the FILE.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\obj\Debug\COPY the FILE.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\obj\Debug\COPY the FILE.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\COPY the FILE\COPY the FILE\obj\Debug\COPY the FILE.pdb

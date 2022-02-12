@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\bin\Debug\create a file.exe.config
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\bin\Debug\create a file.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\bin\Debug\create a file.pdb
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\obj\Debug\create a file.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\obj\Debug\create a file.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\obj\Debug\create a file.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\obj\Debug\create a file.exe
+E:\NBHTraining\C# Training\DAY 15 Assignments\10 files\create a file\create a file\obj\Debug\create a file.pdb
