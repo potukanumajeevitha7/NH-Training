@@ -1,0 +1,6 @@
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\jeevitha7library\bin\Debug\jeevitha7library.dll
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\jeevitha7library\bin\Debug\jeevitha7library.pdb
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\jeevitha7library\obj\Debug\jeevitha7library.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\jeevitha7library\obj\Debug\jeevitha7library.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\jeevitha7library\obj\Debug\jeevitha7library.dll
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\jeevitha7library\obj\Debug\jeevitha7library.pdb

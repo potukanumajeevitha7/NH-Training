@@ -1,0 +1,5 @@
+E:\NBHTraining\C# Training\DAY 16 Assignments\JeevithaLibrary\JeevithaLibrary\bin\Debug\JeevithaLibrary.dll
+E:\NBHTraining\C# Training\DAY 16 Assignments\JeevithaLibrary\JeevithaLibrary\bin\Debug\JeevithaLibrary.pdb
+E:\NBHTraining\C# Training\DAY 16 Assignments\JeevithaLibrary\JeevithaLibrary\obj\Debug\JeevithaLibrary.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\JeevithaLibrary\JeevithaLibrary\obj\Debug\JeevithaLibrary.dll
+E:\NBHTraining\C# Training\DAY 16 Assignments\JeevithaLibrary\JeevithaLibrary\obj\Debug\JeevithaLibrary.pdb

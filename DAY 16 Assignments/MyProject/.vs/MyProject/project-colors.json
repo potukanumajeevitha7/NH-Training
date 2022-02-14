@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bc2bdb1-2b30-4275-93b4-9fb5b7c13d82": {
+      "ProjectGuid": "0bc2bdb1-2b30-4275-93b4-9fb5b7c13d82",
+      "DisplayName": "JohneyLibrary",
+      "ColorIndex": 0
+    },
+    "2830d59a-9ae2-443b-bba7-caff59aaf3aa": {
+      "ProjectGuid": "2830d59a-9ae2-443b-bba7-caff59aaf3aa",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "9f0639a6-9c0c-4104-8c40-bc34fce29369": {
+      "ProjectGuid": "9f0639a6-9c0c-4104-8c40-bc34fce29369",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

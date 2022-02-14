@@ -1,0 +1,6 @@
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\MyWindowsApp\obj\Debug\MyWindowsApp.Form1.resources
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\MyWindowsApp\obj\Debug\MyWindowsApp.Properties.Resources.resources
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.GenerateResource.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.CoreCompileInputs.cache

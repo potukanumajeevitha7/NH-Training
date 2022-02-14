@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a3e9145-95e0-45dc-83b8-ee08ff203fdf": {
+      "ProjectGuid": "4a3e9145-95e0-45dc-83b8-ee08ff203fdf",
+      "DisplayName": "jeevitha7library",
+      "ColorIndex": 0
+    },
+    "7bce866b-ddc3-4dfd-89b6-c8febb2c7d1f": {
+      "ProjectGuid": "7bce866b-ddc3-4dfd-89b6-c8febb2c7d1f",
+      "DisplayName": "publiclibrary",
+      "ColorIndex": 1
+    },
+    "4b8837b7-eed7-4140-b3de-9411e470b07a": {
+      "ProjectGuid": "4b8837b7-eed7-4140-b3de-9411e470b07a",
+      "DisplayName": "clientapp",
+      "ColorIndex": 2
+    },
+    "cd5d322a-0ec5-4210-87a6-6c141bdad8c2": {
+      "ProjectGuid": "cd5d322a-0ec5-4210-87a6-6c141bdad8c2",
+      "DisplayName": "MyWindowsApp",
+      "ColorIndex": 3
+    },
+    "85fa2727-54d7-40b4-8183-d003e55cc051": {
+      "ProjectGuid": "85fa2727-54d7-40b4-8183-d003e55cc051",
+      "DisplayName": "MyWindows",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\bin\Debug\Project 6.exe.config
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\bin\Debug\Project 6.exe
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\bin\Debug\Project 6.pdb
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\obj\Debug\Project 6.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\obj\Debug\Project 6.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\obj\Debug\Project 6.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\obj\Debug\Project 6.exe
+E:\NBHTraining\C# Training\DAY 16 Assignments\Project 6\Project 6\obj\Debug\Project 6.pdb

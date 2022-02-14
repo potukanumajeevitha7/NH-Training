@@ -1,0 +1,6 @@
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject\JohneyLibrary\bin\Debug\JohneyLibrary.dll
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject\JohneyLibrary\bin\Debug\JohneyLibrary.pdb
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject\JohneyLibrary\obj\Debug\JohneyLibrary.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject\JohneyLibrary\obj\Debug\JohneyLibrary.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject\JohneyLibrary\obj\Debug\JohneyLibrary.dll
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject\JohneyLibrary\obj\Debug\JohneyLibrary.pdb

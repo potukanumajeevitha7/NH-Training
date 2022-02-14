@@ -1,0 +1,7 @@
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\clientapp\bin\Debug\clientapp.exe.config
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\clientapp\bin\Debug\clientapp.exe
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\clientapp\bin\Debug\clientapp.pdb
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\clientapp\obj\Debug\clientapp.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\clientapp\obj\Debug\clientapp.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\clientapp\obj\Debug\clientapp.exe
+E:\NBHTraining\C# Training\DAY 16 Assignments\MyProject2\clientapp\obj\Debug\clientapp.pdb
