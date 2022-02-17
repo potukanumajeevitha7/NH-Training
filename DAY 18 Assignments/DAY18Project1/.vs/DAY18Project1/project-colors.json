@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c04ed55-f544-4371-b33c-c6d069276e8e": {
+      "ProjectGuid": "0c04ed55-f544-4371-b33c-c6d069276e8e",
+      "DisplayName": "DAY18Project1",
+      "ColorIndex": 0
+    },
+    "f1eda3d4-79ff-44bc-9b3e-1a6f42c3a1a2": {
+      "ProjectGuid": "f1eda3d4-79ff-44bc-9b3e-1a6f42c3a1a2",
+      "DisplayName": "jeevithalibrary",
+      "ColorIndex": 1
+    },
+    "6a7cb676-109a-4e38-af55-6657fd61ec49": {
+      "ProjectGuid": "6a7cb676-109a-4e38-af55-6657fd61ec49",
+      "DisplayName": "MathsLibrary",
+      "ColorIndex": 2
+    },
+    "690c9498-d38a-477a-a954-ff38633208b9": {
+      "ProjectGuid": "690c9498-d38a-477a-a954-ff38633208b9",
+      "DisplayName": "MyApp",
+      "ColorIndex": 3
+    },
+    "e7d929cd-9d07-42c7-b61f-e925d50352d9": {
+      "ProjectGuid": "e7d929cd-9d07-42c7-b61f-e925d50352d9",
+      "DisplayName": "MathsLibraryTests",
+      "ColorIndex": 4
+    },
+    "674eb2f0-c643-4631-9e40-a96108be966c": {
+      "ProjectGuid": "674eb2f0-c643-4631-9e40-a96108be966c",
+      "DisplayName": "MathsLibraryTests1",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
