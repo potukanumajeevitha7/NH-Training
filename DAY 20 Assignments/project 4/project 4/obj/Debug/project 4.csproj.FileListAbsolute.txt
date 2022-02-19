@@ -1,0 +1,8 @@
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\bin\Debug\project 4.exe.config
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\bin\Debug\project 4.exe
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\bin\Debug\project 4.pdb
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\obj\Debug\project 4.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\obj\Debug\project 4.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\obj\Debug\project 4.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\obj\Debug\project 4.exe
+E:\NBHTraining\C# Training\DAY 20 Assignments\project 4\project 4\obj\Debug\project 4.pdb
