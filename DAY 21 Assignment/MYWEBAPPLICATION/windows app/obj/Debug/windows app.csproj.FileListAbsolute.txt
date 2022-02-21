@@ -1,0 +1,11 @@
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\bin\Debug\windows app.exe.config
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\bin\Debug\windows app.exe
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\bin\Debug\windows app.pdb
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows app.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows app.csproj.SuggestedBindingRedirects.cache
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows_app.Form1.resources
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows_app.Properties.Resources.resources
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows app.csproj.GenerateResource.cache
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows app.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows app.exe
+E:\NBHTraining\C# Training\DAY 20 Assignments\MYWEBAPPLICATION\windows app\obj\Debug\windows app.pdb
