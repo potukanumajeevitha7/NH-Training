@@ -1,0 +1,6 @@
+E:\NBHTraining\C# Training\DAY 22 Assignments\JeevithaFinalProject\DataAcessLibrary\bin\Debug\DataAcessLibrary.dll
+E:\NBHTraining\C# Training\DAY 22 Assignments\JeevithaFinalProject\DataAcessLibrary\bin\Debug\DataAcessLibrary.pdb
+E:\NBHTraining\C# Training\DAY 22 Assignments\JeevithaFinalProject\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.AssemblyReference.cache
+E:\NBHTraining\C# Training\DAY 22 Assignments\JeevithaFinalProject\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.CoreCompileInputs.cache
+E:\NBHTraining\C# Training\DAY 22 Assignments\JeevithaFinalProject\DataAcessLibrary\obj\Debug\DataAcessLibrary.dll
+E:\NBHTraining\C# Training\DAY 22 Assignments\JeevithaFinalProject\DataAcessLibrary\obj\Debug\DataAcessLibrary.pdb
